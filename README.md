@@ -3,6 +3,11 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-jlateles.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact" />
  </div>
+
+<div  align="center" style="margin-bottom:100px">
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?jlateles={jlateles}&theme=yellow-purple"/>
+ </div> 
+
  
  &nbsp;
  &nbsp;
@@ -35,7 +40,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 <div> 
  
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

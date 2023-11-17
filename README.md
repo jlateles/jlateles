@@ -1,17 +1,16 @@
 ### Olá! Meu nome é Júlia! 👋
 
 ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent)
-
 ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
 
-<--! ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact) --> 
-![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent)
-
- 
  &nbsp;
  &nbsp;
 
-## Skills
+## Sobre mim
+
+Cursando Análise e Desenvolvimento de Sistemas, busco oportunidades para ingressar no mercado profissional e construir minha carreira. Dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, construindo assim um portfólio inicial.
+
+Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projetos, colaborando em equipe e integrando-me ao mercado de trabalho. Considero-me ágil, consistente na aprendizagem de novas tecnologias e altamente adaptável às mudanças, sempre pronta para superar desafios. Com um perfil responsável e apaixonado por tecnologia, inovação e programação, aliado a hábitos analíticos, dedicação e facilidade de aprendizagem, estou confiante de que posso contribuir significativamente no ambiente empresarial, superando as expectativas.
 
 #### Tecnologias que uso no meu dia a dia:
 

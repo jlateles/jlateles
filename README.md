@@ -6,7 +6,7 @@
  &nbsp;
  
 ## Sobre mim
-Cursando Análise e Desenvolvimento de Sistemas, busco oportunidades para ingressar no mercado profissional e construir minha carreira. Dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, construindo assim um portfólio inicial.
+Estou cursando Análise e Desenvolvimento de Sistemas, busco oportunidades para ingressar no mercado profissional e construir minha carreira. Dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, construindo assim um portfólio inicial.
 
 Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projetos, colaborando em equipe e integrando-me ao mercado de trabalho. Considero-me ágil, consistente na aprendizagem de novas tecnologias e altamente adaptável às mudanças, sempre pronta para superar desafios. Com um perfil responsável e apaixonado por tecnologia, inovação e programação, aliado a hábitos analíticos, dedicação e facilidade de aprendizagem, estou confiante de que posso contribuir significativamente no ambiente empresarial, superando as expectativas.
 
@@ -25,7 +25,7 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Estudando atualmente: 
+#### O que estou aprendendo de novo no momento: 
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;

@@ -1,4 +1,4 @@
-### Olá! Meu nome é Júlia! 👋
+### Olá!👋 Bem-vindo(a) ao meu Github! ✨
 
 ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&layout=compact)
@@ -25,7 +25,7 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### O que estou aprendendo de novo no momento: 
+#### 🚀 O que estou aprendendo de novo no momento: 
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
@@ -40,7 +40,7 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 &nbsp;
 &nbsp;
 
-## Contato:
+## ✉️ Contato:
 <div> 
  
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -29,10 +29,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://starchart.cc/{jlateles}/{repo}.svg/>
- </div> 
-
 #### Estudando atualmente: 
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;

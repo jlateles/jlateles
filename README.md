@@ -1,10 +1,6 @@
 ### Olá! Meu nome é Júlia! 👋
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent" />
-</div>
-
-<div  align="center" style="margin-bottom:100px">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical"/>
 </div> 
 

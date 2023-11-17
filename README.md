@@ -1,6 +1,10 @@
 ### Olá! Meu nome é Júlia! 👋
- 
-![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact)
+
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent)
+
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
+
+<--! ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact) --> 
 ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent)
 
  

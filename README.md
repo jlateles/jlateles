@@ -8,6 +8,8 @@
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?jlateles={jlateles}&theme=yellow-purple"/>
  </div> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
  
  &nbsp;
  &nbsp;

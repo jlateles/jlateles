@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Júlia! 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&layout=compact)
-![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
 
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&layout=compact)
  &nbsp;
  &nbsp;
  

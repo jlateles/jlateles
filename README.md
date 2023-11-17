@@ -1,12 +1,9 @@
 ### Olá! Meu nome é Júlia! 👋
+ 
+![Júlia's GitHub stats](https://github-readme-stats-git-main-jlateles.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact)
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?jlateles={jlateles}&theme=yellow-purple)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-jlateles.vercel.app/api/top-langs/?username=jlateles&show_icons=true&theme=radical&layout=compact" />
- </div>
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?jlateles={jlateles}&theme=yellow-purple"/>
- </div> 
 
 ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=transparent)
 

@@ -44,8 +44,7 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 <div> 
  
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jlateles/" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-[LinkedIn](https://www.linkedin.com/in/jlateles/){:target="_blank" rel="noopener"}
+<a href="https://www.linkedin.com/in/jlateles/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>&nbsp;&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

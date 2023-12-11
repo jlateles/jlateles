@@ -25,7 +25,8 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### 🚀 O que estou aprendendo de novo no momento: 
+#### 🚀 O que estou aprendendo de novo no momento:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;

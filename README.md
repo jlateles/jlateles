@@ -28,7 +28,8 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 #### 🚀 O que estou aprendendo de novo no momento: 
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
+![Angular](https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;

@@ -41,8 +41,17 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Unplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)&nbsp;
-![unDraw](https://img.shields.io/badge/unDraw-5865F2?style=for-the-badge&logo=unDraw&logoColor=black)&nbsp;
 
+### Development support sites, optimizing time⏳
+- [Escala de cores] https://uicolors.app/create
+- [Botões] https://cssbuttons.app/
+- [Icons] https://icons.getbootstrap.com/
+- [Gradients] https://uigradients.com/
+- [Box-shadow] https://getcssscan.com/css-box-shadow-examples
+- [Illustrations] https://undraw.co/illustrations
+- [Images for free] https://visualhunt.com/
+- [Elementos de interfaces] https://uiverse.io/
+- [Modelos HTML] https://uideck.com/
 &nbsp;
 &nbsp;
 

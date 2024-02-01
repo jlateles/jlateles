@@ -41,6 +41,7 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Unplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+[![unDraw](https://skillicons.dev/icons?i=unDraw&theme=light)](https://skillicons.dev)
 
 &nbsp;
 &nbsp;

@@ -37,11 +37,11 @@ Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projeto
 ![Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-### Secondary workstation tools: 
+### Secondary workstation tools:
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Unplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-[![unDraw](https://skillicons.dev/icons?i=unDraw&theme=light)](https://skillicons.dev)
+![unDraw](https://img.shields.io/badge/unDraw-5865F2?style=for-the-badge&logo=unDraw&logoColor=black)&nbsp;
 
 &nbsp;
 &nbsp;

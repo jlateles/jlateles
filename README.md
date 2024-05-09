@@ -6,9 +6,7 @@
  &nbsp;
  
 ## Sobre mim
-Estou cursando Análise e Desenvolvimento de Sistemas, dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, construindo assim um portfólio inicial.
-
-Estou entusiasmada em aplicar imediatamente o que aprendo, desenvolvendo projetos, colaborando em equipe e integrando-me ao mercado de trabalho. Considero-me ágil, consistente na aprendizagem de novas tecnologias e altamente adaptável às mudanças, sempre pronta para enfrentar desafios. 
+Estou cursando Análise e Desenvolvimento de Sistemas, dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, aplicando imediatamente o que aprendo, desenvolvendo projetos, colaborando em equipe e integrando-me ao mercado de trabalho. 
 
 #### Tecnologias que uso na rotina da faculdade:
 

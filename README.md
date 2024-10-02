@@ -1,7 +1,7 @@
 ### Olá!👋 Bem-vindo(a) ao meu Github! ✨
 
-![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlateles&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jlateles&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  &nbsp;
  &nbsp;
  
@@ -50,12 +50,9 @@ Estou cursando Análise e Desenvolvimento de Sistemas, dedico-me atualmente a ab
 
 &nbsp;
 &nbsp;
-
 ## ✉️ Contato:
 <div> 
  
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jlateles/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>&nbsp;&nbsp;
- 
-

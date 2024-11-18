@@ -5,9 +5,6 @@
  &nbsp;
  &nbsp;
  
-## Sobre mim
-Estou cursando Análise e Desenvolvimento de Sistemas, dedico-me atualmente a absorver conhecimentos durante a graduação e em cursos extracurriculares, aplicando imediatamente o que aprendo, desenvolvendo projetos, colaborando em equipe e integrando-me ao mercado de trabalho. 
-
 #### Tecnologias que uso na rotina da faculdade:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

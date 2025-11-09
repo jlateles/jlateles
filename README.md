@@ -15,7 +15,6 @@
 ### ⚙️ Skills Técnicas
 
 📁 Testes Manuais
-
 - Planejamento, criação e execução de cenários de teste baseados em requisitos e regras de negócio.
 - Experiência com testes exploratórios, interface, usabilidade, exploratórios, entre outros.
 - Documentação de resultados, bugs e evidências, com foco em rastreabilidade e qualidade contínua.
@@ -33,14 +32,12 @@
 
 ### 🚀 O que estou estudando no momento: 
 
-![Cypress](https://img.shields.io/badge/Cypress-38B2AC?style=for-the-badge&logo=cypress&logoColor=black)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![API Testing](https://img.shields.io/badge/API%20Testing-9C0000?style=for-the-badge&logoColor=white)&nbsp;
 ![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-000000?style=for-the-badge&logoColor=white)&nbsp;
 ![Metodologias ágeis](https://img.shields.io/badge/Metodologias%20ágeis-2E3084?style=for-the-badge&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-38B2AC?style=for-the-badge&logo=cypress&logoColor=black)&nbsp;
 ![QA mindset](https://img.shields.io/badge/QA%20mindset-83B81A?style=for-the-badge&logoColor=white)
-
-
 
 #### Ferramentas:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;

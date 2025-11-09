@@ -12,7 +12,7 @@
  - Experiência prévia em programação e base em ciclo de vida de desenvolvimento de software🧠 
  - Estudando metodologias ágeis, API, automação e boas práticas de QA 📚
 
-### ⚙️ Skills Técnicas
+### ⚙️ Hard Skills
 
 📁 Testes Manuais
 - Planejamento, criação e execução de cenários de teste baseados em requisitos e regras de negócio.

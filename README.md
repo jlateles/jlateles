@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Sobre mim: 
+### 🔍 Sobre mim: 
 
  -  Atualmente atuando em Qualidade de Software, com foco em testes manuais e melhoría contínua🧩
  - Experiência prévia em programação e base em ciclo de vida de desenvolvimento de software🧠 
@@ -35,6 +35,12 @@
 
 ![Cypress](https://img.shields.io/badge/Cypress-38B2AC?style=for-the-badge&logo=cypress&logoColor=black)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![API Testing](https://img.shields.io/badge/API%20Testing-9C0000?style=for-the-badge&logoColor=white)&nbsp;
+![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-000000?style=for-the-badge&logoColor=white)&nbsp;
+![Metodologias ágeis](https://img.shields.io/badge/Metodologias%20ágeis-2E3084?style=for-the-badge&logoColor=white)&nbsp;
+![QA mindset](https://img.shields.io/badge/QA%20mindset-83B81A?style=for-the-badge&logoColor=white)
+
+
 
 #### Ferramentas:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
@@ -55,17 +61,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
-
 #### Secundárias:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 ![Alura](https://img.shields.io/badge/Alura-21374F?style=for-the-badge&logo=Alura&logoColor=white)&nbsp;
-
 &nbsp;
 ## ✉️ Contato:
 <div> 
- 
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jlateles/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>&nbsp;&nbsp;

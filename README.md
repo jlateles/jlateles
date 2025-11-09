@@ -9,7 +9,7 @@
 ### Sobre mim: 
 
  -  Atualmente atuando em Qualidade de Software, com foco em testes manuais e melhoría contínua🧩
- - Experiência prévia em programação e forte base em ciclo de vida de desenvolvimento de software🧠 
+ - Experiência prévia em programação e base em ciclo de vida de desenvolvimento de software🧠 
  - Estudando metodologias ágeis, API, automação e boas práticas de QA 📚
 
 ### ⚙️ Skills Técnicas

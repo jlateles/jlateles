@@ -1,4 +1,4 @@
-### Hello!👋 Welcome to my Github! ✨
+### Olá!👋 Bem-vindo(a) ao meu GitHub! ✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  &nbsp;
@@ -6,11 +6,37 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### 🚀 What I'm learning now:
+### Sobre mim: 
+
+ -  Atualmente atuando em Qualidade de Software, com foco em testes manuais e melhoría contínua🧩
+ - Experiência prévia em programação e forte base em ciclo de vida de desenvolvimento de software🧠 
+ - Estudando metodologias ágeis, API, automação e boas práticas de QA 📚
+
+### ⚙️ Skills Técnicas
+
+📁 Testes Manuais
+
+- Planejamento, criação e execução de cenários de teste baseados em requisitos e regras de negócio.
+- Experiência com testes exploratórios, interface, usabilidade, exploratórios, entre outros.
+- Documentação de resultados, bugs e evidências, com foco em rastreabilidade e qualidade contínua.
+
+🔌 Testes de API
+- Postman: validação de endpoints e rotas.
+- Swagger: validação de endpoints e rotas.
+
+### 💡 Soft Skills
+- Comunicação clara e eficaz
+- Proatividade
+- Adaptabilidade
+- Pensamento Crítico
+- Trabalho em equipe
+
+### 🚀 O que estou estudando no momento: 
+
 ![Cypress](https://img.shields.io/badge/Cypress-38B2AC?style=for-the-badge&logo=cypress&logoColor=black)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Ferramentas:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -30,15 +56,14 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
 
-### Secondary workstation tools:
+#### Secundárias:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 ![Alura](https://img.shields.io/badge/Alura-21374F?style=for-the-badge&logo=Alura&logoColor=white)&nbsp;
 
 &nbsp;
-&nbsp;
-## ✉️ Contact:
+## ✉️ Contato:
 <div> 
  
 <a href = "mailto:contato.juliatelesicm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

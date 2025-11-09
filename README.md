@@ -1,4 +1,4 @@
-### Olá!👋 Bem-vindo(a) ao meu GitHub! ✨
+### Olá! Bem-vindo(a) ao meu GitHub!✨<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlateles&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  &nbsp;
